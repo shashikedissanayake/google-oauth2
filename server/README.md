@@ -1,5 +1,5 @@
 # google-oauth2-server-app
-Created a simple Node JS project to tryout Google oAuth 2.0 with PasssportJs
+Created a simple Node JS project to try out Google oAuth 2.0 with PasssportJs
 
 ## Installation
 
