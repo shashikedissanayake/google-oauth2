@@ -35,7 +35,7 @@ const Button = (props) => {
     return (
       token ? <h2>Login success</h2> : <GoogleButton onClick={login}/>
         // <GoogleLogin
-        //     clientId={'788333224978-s2ocrqf26d45cl05d8ksg59bchrj0riq.apps.googleusercontent.com'}
+        //     clientId={'client-id'}
         //     buttonText="Log in with Google"
         //     onSuccess={handleLogin}
         //     onFailure={failLogin}
